@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 kube-controllers:v3.19.3
+kubernetesui/dashboard:v2.4.0
